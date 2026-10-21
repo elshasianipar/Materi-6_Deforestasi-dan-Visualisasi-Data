@@ -1,0 +1,11 @@
+id_area,kelas_2021,kelas_2024,luas_ha
+A01,Hutan,Hutan,12.5
+A02,Hutan,Lahan Terbuka,4.2
+A03,Perkebunan,Perkebunan,8.0
+A04,Hutan,Perkebunan,3.7
+A05,Lahan Terbuka,Hutan,1.4
+A06,Hutan,Lahan Terbuka,2.1
+A07,Perkebunan,Lahan Terbuka,0.9
+A08,Hutan,Hutan,6.4
+A09,Hutan,Perkebunan,2.6
+A10,Lahan Terbuka,Lahan Terbuka,1.1
